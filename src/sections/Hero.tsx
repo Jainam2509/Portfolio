@@ -90,7 +90,7 @@ export const HeroSection = () => {
           </button>
           <a
             href="/JainamUpdatedResume.pdf"
-            download={"JainamUpdatedResume.pdf"}
+            download={"JainamResume.pdf"}
             className="inline-flex items-center gap-2 border border-white bg-white text-gray-900 h-12 px-6 rounded-xl">
             <span className="font-semibold">Download CV</span>
             <span><FaFileDownload color="#22c55e"/></span>
